@@ -1,0 +1,152 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_1_FRONT_304955
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+map_Kn male jacket+avatar_normal_1001.png
+newmtl Material1539642
+Ka 0.150246 0.100836 0.001008
+Kd 0.478908 0.321415 0.003214
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+map_Kn male jacket+avatar_normal_1001.png
+newmtl Fabric404731_FRONT_404731
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+map_Kn male jacket+avatar_normal_1001.png
+newmtl Fabric404731_SIDE_404731
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+newmtl Material404582
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material404746
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material404748
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material404748
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material404750
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material404750
+Ka 0.255115 0.218814 0.170413
+Kd 0.813180 0.697470 0.543191
+Ks 0.900000 0.900000 0.900000
+Ns 128.000000
+illum 2
+map_Ka male jacket+avatar_diffuse_1001.png
+map_Kd male jacket+avatar_diffuse_1001.png
+newmtl Material2842
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2843
+Ka 0.256124 0.256124 0.256124
+Kd 0.996078 0.996078 0.996078
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2847
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2844
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2841
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2846
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2839
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2840
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2845
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Material2838
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ns 128.000000
+illum 2
+d 1.000000
